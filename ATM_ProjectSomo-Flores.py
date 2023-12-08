@@ -3,7 +3,6 @@ AUTOMATED-TELLER-MACHINE PROJECT By:
 
 Somo, Herbenne Rey V.
 Flores, Bastian Bragi B.
-Rapada, Benmar
 
 Prof: Sir Madz
 
